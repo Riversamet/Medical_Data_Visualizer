@@ -1,5 +1,5 @@
-# Medical_Data_Visualizer
-This project demonstrates basic data cleaning, reshaping data for visualization, and creating categorical plots and correlation heatmaps using pandas, matplotlib, and seaborn.
+# Medical Data Visualizer
+This project demonstrates basic data cleaning, reshaping data for visualization, and creating categorical plots and correlation heatmaps using pandas, Matplotlib, and seaborn. The dataset is obtained from freeCodeCamp.
 
 ## Objectives:
 
@@ -15,7 +15,7 @@ This project demonstrates basic data cleaning, reshaping data for visualization,
 - pandas
 - seaborn
 - NumPy
-- matplotlib
+- Matplotlib
 
 # Description
 
